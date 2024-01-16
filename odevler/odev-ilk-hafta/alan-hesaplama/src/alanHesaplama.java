@@ -29,7 +29,7 @@ public class alanHesaplama {
         /*
 
 
-        denemee
+        denemee2
          */
         }
     }
