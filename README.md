@@ -5,7 +5,7 @@ Bu repo, Java ile Backend Geliştiriciliği Bootcamp'ine ait ders notlarını ve
 
 ## İçerikler
 - **Hafta 1:** Java Giriş, Veri Tipleri, Operatörler
-- **Hafta 2:** Kontrol Yapıları, Döngüler, Metotlar
+- **Hafta 2:** Kontrol Yapıları, Döngüler, Metotlar _(BURADAYIZ)_
 - **Hafta 3:** Diziler, Collection
 - **Hafta 4:** Nesne Yönelimli Programlama
 - **Hafta 5:** Hata yakalama
