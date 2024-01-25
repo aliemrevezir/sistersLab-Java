@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/i-plus-plus/i-plus-plus.iml" filepath="$PROJECT_DIR$/i-plus-plus/i-plus-plus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/not-ortalamasi-hesaplama/not-ortalamasi-hesaplama.iml" filepath="$PROJECT_DIR$/not-ortalamasi-hesaplama/not-ortalamasi-hesaplama.iml" />
+      <module fileurl="file://$PROJECT_DIR$/not-ortalamasi-v2/not-ortalamasi-v2.iml" filepath="$PROJECT_DIR$/not-ortalamasi-v2/not-ortalamasi-v2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/not-ortalamasi-v2/.idea/sisters-Lab.iml" filepath="$PROJECT_DIR$/not-ortalamasi-v2/.idea/sisters-Lab.iml" />
+      <module fileurl="file://$PROJECT_DIR$/switch-case/switch-case.iml" filepath="$PROJECT_DIR$/switch-case/switch-case.iml" />
+    </modules>
+  </component>
+</project>
