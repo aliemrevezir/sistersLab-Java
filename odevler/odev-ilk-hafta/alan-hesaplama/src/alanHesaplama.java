@@ -26,6 +26,7 @@ public class alanHesaplama {
                 double yaricap= key.nextInt();
                 System.out.println("Dairenin alanı: " + Math.PI*(yaricap*yaricap) + " m^2'dir.");
                 break;
+
         }
     }
 }
